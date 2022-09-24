@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:qiita_client/presentation/pages/base/base_page.dart';
 
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
@@ -9,7 +10,7 @@ class App extends StatelessWidget {
       title: 'Qiita Client',
       theme: ThemeData(primarySwatch: Colors.grey),
       debugShowCheckedModeBanner: false,
-      home: const Text('hello'),
+      home: const BasePage(),
     );
   }
 }
