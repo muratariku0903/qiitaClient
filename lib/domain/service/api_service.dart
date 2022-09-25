@@ -5,6 +5,6 @@ abstract class ApiService {
   Future<ApiResponse<List<QiitaPostResponse>>> getItems({
     int? page,
     int? perPage,
-    String query,
+    String? query,
   });
 }
