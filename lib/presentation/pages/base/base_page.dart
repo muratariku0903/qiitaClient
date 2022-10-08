@@ -25,8 +25,9 @@ class BasePage extends ConsumerWidget {
           ),
         ],
         onTap: (index) {
-          print(index);
-          if (scrollController.hasClients) {}
+          if (scrollController.hasClients) {
+            scrollController.animateTo(0, duration: const Duration(microseconds: 300), curve: Curves.easeInOut);
+          }
         },
       ),
     );
