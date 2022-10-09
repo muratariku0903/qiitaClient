@@ -1,16 +1,5 @@
 # qiita_client
 
-A new Flutter project.
+## reference
+https://zenn.dev/dev_tatsuya/articles/cffaa7c50dfad7#%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BD%E7%B4%B9%E4%BB%8B%EF%BC%88gif%E3%81%82%E3%82%8A%EF%BC%89
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
